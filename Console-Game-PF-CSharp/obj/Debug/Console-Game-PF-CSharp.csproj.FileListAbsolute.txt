@@ -1,0 +1,10 @@
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\bin\Debug\Console-Game-PF-CSharp.exe.config
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\bin\Debug\Console-Game-PF-CSharp.exe
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\bin\Debug\Console-Game-PF-CSharp.pdb
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\bin\Debug\EZInput.dll
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\bin\Debug\EZInput.xml
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\obj\Debug\Console-Game-PF-CSharp.csproj.AssemblyReference.cache
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\obj\Debug\Console-Game-PF-CSharp.csproj.CoreCompileInputs.cache
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\obj\Debug\Console-Game-PF-CSharp.csproj.CopyComplete
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\obj\Debug\Console-Game-PF-CSharp.exe
+D:\UET-Tasks\OOP\Console-Game-PF-CSharp\Console-Game-PF-CSharp\obj\Debug\Console-Game-PF-CSharp.pdb
